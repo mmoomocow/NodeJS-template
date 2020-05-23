@@ -1,4 +1,4 @@
-name: Node CI environment
+name: linter check
 
 on: [push, pull_request]
 
